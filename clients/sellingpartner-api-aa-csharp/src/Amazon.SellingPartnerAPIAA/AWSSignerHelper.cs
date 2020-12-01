@@ -13,7 +13,7 @@ namespace Amazon.SellingPartnerAPIAA
         public const string ISO8601BasicDateTimeFormat = "yyyyMMddTHHmmssZ";
         public const string ISO8601BasicDateFormat = "yyyyMMdd";
 
-        public const string XAmzDateHeaderName = "X-Amz-Date";
+        public const string XAmzDateHeaderName = "x-amz-date";
         public const string AuthorizationHeaderName = "Authorization";
         public const string CredentialSubHeaderName = "Credential";
         public const string SignatureSubHeaderName = "Signature";
